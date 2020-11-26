@@ -1,0 +1,12 @@
+
+
+#ifndef LDSProductDetail_pch
+#define LDSProductDetail_pch
+
+
+#import "UIView+Size.h"
+#import "NSObject+LDSNewKVO.h"
+
+#define SCREENSIZE [[UIScreen mainScreen] bounds].size
+
+#endif
